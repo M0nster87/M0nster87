@@ -1,6 +1,6 @@
-# Pascal Python Developer 
+# Pascal Python Developer @`QuantumCoders©2024`
 
-**Contact me:** 
+Contact me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pascal-hassenberg-523480332/)
 
 ### Python Developer
@@ -33,6 +33,3 @@
 - Conducting penetration tests to identify vulnerabilities in systems and networks.
 - Utilizing industry-standard tools and techniques for security assessments, including network and vulnerability scans.
 - Generating comprehensive reports on security findings and providing actionable recommendations for risk mitigation.
-
-
-

@@ -26,9 +26,6 @@ Contact me:
 </div>
 
 ### Penetration Tester (In Progress)
-<p align="center">
-  <img src="pic_042.jpg" alt="Header-Bild" width="18%" style="margin: 0 auto;">
-</p>
 
 - Conducting penetration tests to identify vulnerabilities in systems and networks.
 - Utilizing industry-standard tools and techniques for security assessments, including network and vulnerability scans.

@@ -4,11 +4,13 @@ Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pascal-hassenberg-523480332/)
 
 ### Python Developer
+
 - Developing data-driven applications using Python to enhance functionality and user experience.
 - Implementing SQL database queries for efficient data manipulation and retrieval.
 - Automating processes to increase operational efficiency.
   
 ### Certificates
+
 - [PCEP – Certified Entry-Level Python Programmer](https://verify.openedg.org/?id=ecOO.tezS.EFHk)
 - [PCAP – Certified Associate in Python Programming](https://verify.openedg.org/?id=yX9e.69qE.vOKc)
 - PCPP1 – Certified Professional Python Programmer Level 1 (In Progress)
@@ -16,17 +18,18 @@ Contact me:
 
 ### Languages and Tools 
 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" class="lt-logo" width="30">&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" class="lt-logo" width="30">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" class="lt-logo" width="30">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" class="lt-logo" width="30">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="GIT" title="GIT" class="lt-logo" width="30">&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" class="lt-logo" width="30">&nbsp;
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-55ff55?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Penetration Tester (In Progress)
+### Git Hub Statiic's
 
-- Conducting penetration tests to identify vulnerabilities in systems and networks.
-- Utilizing industry-standard tools and techniques for security assessments, including network and vulnerability scans.
-- Generating comprehensive reports on security findings and providing actionable recommendations for risk mitigation.
+![](https://github-readme-streak-stats.herokuapp.com/?user=M0nster87&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M0nster87&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+

@@ -3,11 +3,12 @@
 Contact me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pascal-hassenberg-523480332/)
 
-### Python Developer
+### My Focus Areas:
 
-- Developing data-driven applications using Python to enhance functionality and user experience.
-- Implementing SQL database queries for efficient data manipulation and retrieval.
-- Automating processes to increase operational efficiency.
+- **Data Analysis and Visualization** with Pandas, NumPy, and Matplotlib.
+- **Machine Learning**: Modeling predictions and analyzing data patterns.
+- **Process Automation** to optimize workflows.
+- **Console-based Program**: Applications that interacts with the user through the command line.
   
 ### Certificates
 

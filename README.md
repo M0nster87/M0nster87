@@ -7,7 +7,6 @@ Contact me:
 
 - **Data Analysis and Visualization** with Pandas, NumPy, and Matplotlib.
 - **Machine Learning**: Modeling predictions and analyzing data patterns.
-- **Process Automation** to optimize workflows.
 - **Console-based Program**: Applications that interacts with the user through the command line.
   
 ### Certificates

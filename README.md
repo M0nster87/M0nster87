@@ -5,14 +5,11 @@ Contact me:
 
 ### My Focus Areas:
 
-- **Data Analysis and Visualization** with Pandas, NumPy, and Matplotlib.
-- **Machine Learning**: Modeling predictions and analyzing data patterns.
-- **Console-based Program**: Applications that interacts with the user through the command line.
   
 ### Certificates
 
-- [PCEP – Certified Entry-Level Python Programmer](https://verify.openedg.org/?id=ecOO.tezS.EFHk)
-- [PCAP – Certified Associate in Python Programming](https://verify.openedg.org/?id=yX9e.69qE.vOKc)
+- PCEP – Certified Entry-Level Python Programmer
+- PCAP – Certified Associate in Python Programming
 - PCPP1 – Certified Professional Python Programmer Level 1 (In Progress)
 - PCED – Certified Entry-Level Data Analyst with Python (In Progress)
 

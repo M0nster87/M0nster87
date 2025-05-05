@@ -1,9 +1,17 @@
-# Pascal Python Developer @`QuantumCoders©2024`
+# `Pascal Hassenberg`
 
 Contact me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pascal-hassenberg-523480332/)
 
 ### My Focus Areas:
+
+ - Python Programming (Beginner to Intermediate Level Projects)
+ - Data Analysis and Visualization with Pandas and Matplotlib
+ - Web Development with Flask
+ - Version Control and Project Documentation using Sphinx
+ - Learning Machine Learning and IT Security Fundamentals
+ - Working with SQLite and Bash on Linux-based systems
+ - Building educational tools and GUI apps (e.g., with Tkinter)
 
   
 ### Certificates
@@ -23,6 +31,7 @@ Contact me:
 ![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2222FF?style=for-the-badge&logo=Docker&logoColor=white)
 
 ### Git Hub Statiic's
 
